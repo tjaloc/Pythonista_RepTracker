@@ -1,2 +1,14 @@
-# Pythonista_RepTracker
-Keep track of your fitness goals. This Pythonista-based fitness tracker lets you set workout goals, log your completed reps, and visually monitor your progress with intuitive donut charts. Stay motivated and on track with simple, goal-oriented tracking – right from your iOS device.
+# Pythonista Fitness Tracker - RepTracker
+
+**Keep track of your fitness goals.** 
+This Pythonista-based fitness tracker helps you stay motivated by letting you:
+
+- Set custom goals for a year e. g. 10,000 push-ups
+- Log your completed repetitions
+- Get visual feedback with ring progress charts
+
+---
+## Screenshots
+
+![Dashboard/ interface](screenshots/RepTracker_Dashboard.PNG)
+![Dashboard/ interface](screenshots/RepTracker_Settings.PNG)
